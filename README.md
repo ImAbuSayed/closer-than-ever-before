@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/closer-than-ever-before/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Closer Than Ever Before](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-ever-before/) |
+| **Get License** | [Commercial Licensing for Closer Than Ever Before](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-ever-before/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `71f20057a2306ad4eb73e5e1943df8dfe4431fbe2ddd3224fe2110f03c80008f` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
