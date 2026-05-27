@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/closer-than-ever-before/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Closer Than Ever Before](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-ever-before/) |
+| **Get License** | [Request Licensing for Closer Than Ever Before](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/closer-than-ever-before/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit d4d7deff66284117849c9f193b9425f64f8c083b
+> Slide a little closer, let the engine idle slow
+> Got nowhere to be, but everywhere to go
+> Tangled in the moonlight, pouring through the glass
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
